@@ -21,11 +21,11 @@ This project explores crime patterns in New York City by conducting an in-depth 
 * **NYPD Complaint Data:**
     * Historic data consisting of felony, misdemeanor, and violation crimes reported from 2006 to 2019.
     * Retrieved a random sample from the New York City Open Data API.
+    * Data Source: [NYPD Arrests Data (Historic)](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/about_data)
 * **NYPD Arrest Data:**
     * Data consisting of every arrest made in NYC by the NYPD during the current year.
     * Manually extracted quarterly and reviewed by the Office of Management Analysis and Planning.
-    * Data is in CSV format.
-
+    * Data Source: [NYPD Arrests Data (Historic)](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/about_data)
 ## 💻 Analysis Performed
 
 * **Data Exploration:**
